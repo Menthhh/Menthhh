@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tonkla Pokaew(Menth)</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate Full stack developer from Thailand</h3>
 
-- 🌱 I’m currently learning **2nd Year at King Mongkut's Institute of Technology Ladkrabang**
+- 🌱 I’m currently studying at  **2nd Year at King Mongkut's Institute of Technology Ladkrabang** Major in **Software Engineer**
 
 - 📫 How to reach me **tonklapokaew@gmail.com**
 
