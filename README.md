@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tonkla Pokaew(Menth)</h1>
 
-- 🌱 I'm currently studying in my 2nd year at King Mongkut's Institute of Technology, Ladkrabang, with a major in software engineering.
+- 🌱 I'm currently studying in my 3nd year at King Mongkut's Institute of Technology, Ladkrabang, with a major in software engineering.
 
 - 📫 How to reach me **tonklapokaew@gmail.com**
 
